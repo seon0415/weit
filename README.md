@@ -1,2 +1,2 @@
 # weit
-weit
+python study
